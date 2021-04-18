@@ -1,4 +1,4 @@
-# Machine-Learning-
+# Machine-Learning
 
 1.	Open the Google collab from google. (https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 2.	Upload the python file.
